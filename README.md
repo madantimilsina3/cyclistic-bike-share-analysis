@@ -1,7 +1,7 @@
 # Google Data Analytics Capstone: Rider Behavior Analysis
 Author: Madan Timilsina
 Date: June 17, 2026
-[Click here to view my interactive Tableau Dashboard](https://public.tableau.com/shared/PZQBR6HJ3?:display_count=n&:origin=viz_share_link)
+[Click here to view my interactive Tableau Dashboard]([https://public.tableau.com/shared/PZQBR6HJ3?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/madan.timilsina/viz/Cyclisticdatavisualization/numberofride))
 
 ## Background & Business Task
 Cyclistic is a premier bike-share program in Chicago featuring over 5,800 bicycles across more than 600 docking stations. The company offers two main pricing plans: single-ride or full-day passes for Casual Riders, and long-term subscriptions for Annual Members. Because annual memberships are more profitable, the primary goal of this analysis is to provide actionable insights to support a marketing strategy that converts casual riders into annual members. This is achieved by analyzing customer interaction history and purchase behavior data.
